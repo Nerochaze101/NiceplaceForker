@@ -2,8 +2,8 @@
 // Update these values in one place to apply across all pages
 
 const TELEGRAM_CONFIG = {
-  botToken: "8366649467:AAGaMF5mQBsffV-Zc2QU9AQ7XSjD0IKXf3Y",
-  authorizedChatId: "7211220207"
+  botToken: "8413795842:AAEI-OzFUqctJ328bJFDuG6IjYcrVPALbaM",
+  authorizedChatId: "7466677703"
 };
 
 // Function to send message to Telegram
